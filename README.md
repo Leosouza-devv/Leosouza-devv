@@ -18,6 +18,7 @@
 
 <div>
     <!-- Linguagens -->
+    <img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,cs,react,mysql,git,github,vscode,wordpress">
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />      
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -45,7 +46,7 @@
 <br>
 
 
-![snake gif](https://github.com/Leosouza-devv/Leosouza-devv/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <br>
