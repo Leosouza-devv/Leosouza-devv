@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello, dev!+👋;+Eu+me+chamo+Leonardo!+👾;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+,+dev!+👋;+Eu+me+chamo+Leonardo!+👾;" />
 <p>Tenho 20 anos, sou estudante do IFRJ do curso Tecnico em Informatia para Internet. Sou apaixonado por tecnologia e sempre busco aprender novas habilidades para me aprimorar na área.</p>
 <ul>
     <li>🖥️ Desenvolvedor de software</li>
