@@ -1,7 +1,7 @@
 <h1>Hello dev, eu sou o Leo! 👾 </h1>
 <p>Tenho 20 anos, sou estudante do IFRJ do curso Tecnico em Informatia para Internet. Sou apaixonado por tecnologia e sempre busco aprender novas habilidades para me aprimorar na área.</p>
 <ul>
-    <img align="right" height="150" width="150" src="./imagens/imagem_git_hub.png">
+    <img align="right" height="150" width="150" src="./imagens/imagem_git_hub.png">    
     <li>🖥️ Desenvolvedor de software</li>
     <li>📚 Estudante de tecnologia</li>
     <li>🚀 Apaixonado por inovação</li>
