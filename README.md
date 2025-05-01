@@ -44,9 +44,8 @@
 </div>
 <br>
 
-## 🐍 Snake eating my contributions
 
-![snake gif](https://raw.githubusercontent.com/Leosouza-devv/Leosouza-devv/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
 
 
 <br>
