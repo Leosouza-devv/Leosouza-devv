@@ -5,7 +5,7 @@
     <li>📚 Estudante de tecnologia</li>
     <li>🚀 Apaixonado por inovação</li>
     <li>😁 Venha me conhecer mais um pouco.</li>
-    <img align="right" height="150" width="150" src="./imagens/imagem_git_hub.png">
+    <li><img align="right" height="150" width="150" src="./imagens/imagem_git_hub.png"></li>
 
 </ul>
 
