@@ -13,6 +13,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Create Output Directory
+        run: mkdir -p dist
+
       - name: Generate Snake Animation
         uses: Platane/snk@v2
         with:
