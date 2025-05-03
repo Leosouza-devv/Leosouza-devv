@@ -29,8 +29,7 @@
 </div>
 <br>
 
-![Snake animation](https://github.com/Leosouza-devv/Leosouza-devv/raw/output/github-contribution-grid-snake.svg)
-
+ ![Snake animation](https://github.com/Leosouza-devv/Leosouza-devv/blob/output/github-contribution-grid-snake.svg)  
 <br>
 
 
