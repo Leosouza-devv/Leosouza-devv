@@ -1,49 +1,34 @@
-# Nome da Actions:  
-name: Snake Game
+name: Generate snake animation
 
-# Controlador do tempo que será feito a atualização dos arquivos.
 on:
-  schedule:
-    # Será atualizado a cada 5 horas.
-    - cron: "0 */5 * * *"
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
 
-  # Permite executar na lista de Actions (utilizado para testes de build).
   workflow_dispatch:
 
-# Regras
+  push:
+    branches:
+    - master
+
 jobs:
-  build:
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+
     steps:
+      - name: generate snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/snake.svg?palette=github-dark
 
-    # Verifica o repositório
-    - uses: actions/checkout@v2
 
-    # Repositório que será utilizado para gerar os arquivos.
-    - uses: Platane/snk@v3
-      id: snake-gif
-      with:
-        github_user_name: Leosouza-devv # Seu usuário
-        gif_out_path: dist/github-contribution-grid-snake.gif
-        svg_out_path: dist/github-contribution-grid-snake.svg
-
-    # Cria a pasta dist, caso não exista
-    - run: mkdir -p dist
-
-    # Verifica o status do git
-    - run: git status
-
-    # Faz o commit dos arquivos gerados
-    - name: Commit changes
-      run: |
-        git add dist/*
-        git commit -m "update snake animation"
-        git push origin main
-
-    # Publica no GitHub Pages (caso queira usar como GIF no perfil)
-    - uses: crazy-max/ghaction-github-pages@v2.1.3
-      with:
-        target_branch: gh-pages
-        build_dir: dist
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: push snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

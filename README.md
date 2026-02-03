@@ -17,7 +17,7 @@
 
 <div>
     <!-- tecnologias -->
-    <img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,cs,react,mysql,git,github,vscode,figma,wordpress">
+    <img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,cs,react,mysql,git,github,vscode,vercel,figma,wordpress">
    
 </div>
 
@@ -29,9 +29,7 @@
 </div>
 <br>
 
-
-
-
+<img src="https://raw.githubusercontent.com/Leosouza-devv/Leosouza-devv/output/snake.svg" alt="Snake animation" />
 
 <br>
 
