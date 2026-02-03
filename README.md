@@ -40,7 +40,7 @@
 <p>Se você quiser entrar em contato comigo, fique à vontade para me enviar uma mensagem através das minhas redes sociais ou e-mail. Estou sempre aberto a novas oportunidades e colaborações!</p>
 <p>Você pode me encontrar nas seguintes plataformas:</p>
 <div>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="leosouza.devv@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/leonardo-souza-0b1b4a1b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://www.instagram.com/leosouza.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
     
