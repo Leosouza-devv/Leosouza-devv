@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&vleft=true&width=500&height=70&duration=4000&lines=Hello,+dev!+👋;+Eu+me+chamo+Leonardo!+👾;" />
-<p>Tenho 20 anos, sou estudante do IFRJ do curso Tecnico em Informatia para Internet. Sou apaixonado por tecnologia e sempre busco aprender novas habilidades para me aprimorar na área.</p>
+<p>Tenho 20 anos, sou estudante de Engenharia de Software na Universidade de Vassouras - UV, e Desenvolvedor web formado pelo Instituto Federal do Rio de Janeiro - IFRJ. Sou apaixonado por tecnologia e inovação, sempre buscando aprender novas habilidades para me aprimorar na área.</p>
 <ul>
-    <li>🖥️ Desenvolvedor de software</li>
+    <li>🖥️ Desenvolvedo de software</li>
     <li>📚 Estudante de tecnologia</li>
     <li>🚀 Apaixonado por inovação</li>
     <li>😁 Venha me conhecer mais um pouco.</li>
@@ -11,7 +11,7 @@
 <h2 id="tecnologias-e-ferramentas">💻 Tecnologias e Ferramentas</h2>
 <p>Sou um desenvolvedor web com experiência em HTML, CSS e JavaScript, sempre buscando aprender novas tecnologias para expandir minhas habilidades. Atualmente, estou focado em aprimorar meus conhecimentos em React, fortalecendo minha atuação no front-end.</p>
 <p>Tenho explorado bancos de dados como MySQL e aprimorado meu domínio em controle de versão com Git e GitHub. Além disso, utilizo ferramentas como Visual Studio Code, Figma e WordPress para otimizar meu fluxo de trabalho e criar soluções inovadoras.</p>
-<p>Também estou aprofundando meus conhecimentos em Programação Orientada a Objetos (POO) com C#, aplicando esses conceitos em projetos reais para desenvolver soluções eficientes e bem estruturadas.</p>
+
 
 <br>
 
