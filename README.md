@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&vleft=true&width=500&height=70&duration=4000&lines=Hello,+dev!+👋;+Eu+me+chamo+Leonardo!+👾;" />
 <p>Tenho 20 anos, sou estudante de Engenharia de Software na Universidade de Vassouras - UV, e Desenvolvedor web formado pelo Instituto Federal do Rio de Janeiro - IFRJ. Sou apaixonado por tecnologia e inovação, sempre buscando aprender novas habilidades para me aprimorar na área.</p>
-<ul style="display:flex;">
+<ul>
     <li>🖥️ Desenvolvedo de software</li>
     <li>📚 Estudante de tecnologia</li>
     <li>🚀 Apaixonado por inovação</li>
