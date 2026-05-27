@@ -1,4 +1,6 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&vleft=true&width=500&height=70&duration=4000&lines=Hello,+dev!+👋;+Eu+me+chamo+Leonardo!+👾;" />
+<div align="center">
+  <img src="assets/Capa de fundo.png" width="100%" height="100%" />
+</div>
 <p>Tenho 20 anos, sou estudante de Engenharia de Software na Universidade de Vassouras - UV, e Desenvolvedor web formado pelo Instituto Federal do Rio de Janeiro - IFRJ. Sou apaixonado por tecnologia e inovação, sempre buscando aprender novas habilidades para me aprimorar na área.</p>
 <ul>
     <li>🖥️ Desenvolvedo de software</li>
@@ -15,7 +17,7 @@
 
 <br>
 
-<div>
+<div align="center">
     <!-- tecnologias -->
     <img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,react,mysql,git,github,vscode,vercel,figma, ">
    
@@ -23,13 +25,26 @@
 
 <br>
 
-<div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leosouza-devv&show_icons=true&theme=dark&locale=pt-br" alt="states_profile">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosouza-devv&show_icons=true&theme=dark&locale=pt-br&layout=compact" alt="states_linguages">
+<div align="center">
+  <table border="0" style="background-color: transparent;">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats-gold-theta-94.vercel.app/api?username=Leosouza-devv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400&random=1" height="175" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats-gold-theta-94.vercel.app/api/top-langs/?username=Leosouza-devv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400&random=1&exclude_repo=github-readme-stats" height="175" alt="Top Langs" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leosouza-devv&theme=tokyonight&hide_border=true&background=0D1117&random=1" height="175" alt="GitHub Streak" />      
+      </td>
+      
+    </tr>
+  </table>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/Leosouza-devv/Leosouza-devv/output/snake.svg" alt="Snake animation"/>
+  </div>
 </div>
 <br>
-
-<img src="https://raw.githubusercontent.com/Leosouza-devv/Leosouza-devv/output/snake.svg" alt="Snake animation" />
 
 <br>
 
