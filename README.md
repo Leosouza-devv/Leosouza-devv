@@ -1,234 +1,164 @@
-<div align="center">
-
-<img src="assets/Capa de fundo.png" width="100%" style="border-radius: 12px;" />
-
-<br>
-
-<p>
-Desenvolvedor focado em aplicações web modernas, backend, automação e análise de dados com Python.
+```md
+<p align="center">
+  <img src="assets/Capa de fundo.png" alt="Banner" />
 </p>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-LEARNING-success?style=for-the-badge&color=black" />
+  <img src="https://img.shields.io/badge/FOCUS-BACKEND-blue?style=for-the-badge&color=black" />
+  <img src="https://img.shields.io/badge/PYTHON-AUTOMATION-informational?style=for-the-badge&color=black" />
+  <img src="https://img.shields.io/badge/STACK-WEB_DEV-orange?style=for-the-badge&color=black" />
+  <img src="https://img.shields.io/badge/MODE-BUILDING-critical?style=for-the-badge&color=black" />
+</p>
 
 ---
 
-# Sobre mim
+<h2 style="border-bottom: none;">Sobre mim</h2>
 
-<table border="0">
-<tr>
+<img align="left" src="assets/computador.png" width="170" style="margin-right: 20px; margin-bottom: 10px;" />
 
-<td width="75%">
+<p>
+Estudante de Engenharia de Software pela Universidade de Vassouras (UV) e desenvolvedor focado em aplicações web, backend e automação com Python.
+</p>
 
-- Desenvolvedor de software
-- Estudante de Engenharia de Software
-- Estudando backend e banco de dados
-- Direcionando estudos para automação e análise de dados com Python
-- Construindo aplicações web modernas e organizadas
+<p>
+Tenho direcionado meus estudos para construção de sistemas mais organizados, integração backend, manipulação de dados e desenvolvimento de soluções práticas.
+</p>
 
-</td>
+<p>
+Atualmente busco evoluir principalmente em arquitetura de aplicações, automação de processos e desenvolvimento backend com Node.js e Python.
+</p>
 
-<td width="25%" align="center">
-
-<img src="assets/computador.png" width="150"/>
-
-</td>
-
-</tr>
-</table>
+<br clear="left"/>
 
 ---
 
-# Formação Acadêmica
+<h2 style="border-bottom: none;">Formação Acadêmica</h2>
 
-<table border="0">
-<tr>
+<img align="right" src="assets/chapeu.png" width="160" style="margin-left: 20px; margin-bottom: 10px;" />
 
-<td width="75%">
+<ul>
+  <li><strong>Bacharelado em Engenharia de Software</strong> — Universidade de Vassouras (UV) <em>(em andamento)</em></li>
+  <li><strong>Formação em Desenvolvimento Web</strong> — Instituto Federal do Rio de Janeiro (IFRJ)</li>
+</ul>
 
-- Bacharelado em Engenharia de Software  
-  Universidade de Vassouras (UV) *(em andamento)*
-
-- Formação em Desenvolvimento Web  
-  Instituto Federal do Rio de Janeiro (IFRJ)
-
-</td>
-
-<td width="25%" align="center">
-
-<img src="assets/chapeu.png" width="145"/>
-
-</td>
-
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
-# Áreas de Estudo
+<h2 style="border-bottom: none;">Foco no momento</h2>
 
-<table border="0">
-<tr>
+<img align="left" src="assets/lupa.png" width="160" style="margin-right: 20px; margin-bottom: 10px;" />
 
-<td width="75%">
+<ul>
+  <li>Construir aplicações web mais organizadas e escaláveis.</li>
+  <li>Aprofundar conhecimentos em backend com Node.js.</li>
+  <li>Explorar automação e análise de dados com Python.</li>
+  <li>Melhorar estruturação de código e arquitetura de aplicações.</li>
+  <li>Desenvolver projetos voltados para problemas reais.</li>
+</ul>
 
-Atualmente direciono meus estudos para:
-
-- backend com Node.js
-- automação com Python
-- análise e manipulação de dados
-- bancos de dados relacionais
-- arquitetura de aplicações
-- boas práticas de desenvolvimento de software
-
-</td>
-
-<td width="25%" align="center">
-
-<img src="assets/lupa.png" width="145"/>
-
-</td>
-
-</tr>
-</table>
+<br clear="left"/>
 
 ---
 
-# Tecnologias e Ferramentas
+<h2 style="border-bottom: none;">Projetos em destaque</h2>
+
+<p>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Landing%20Page-repositório-black?style=for-the-badge&logo=github&logoColor=white&color=black" />
+  </a>
+</p>
+
+Landing page responsiva desenvolvida com foco em experiência do usuário, organização visual e performance utilizando HTML, CSS e JavaScript.
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,python,mysql,git,github,vscode,vercel,figma" />
-
+  <img src="assets/landing-page-preview.png" width="85%" style="border-radius: 12px;" />
 </div>
 
 ---
 
-# Projetos em Destaque
+<p>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Sistema%20Web-repositório-black?style=for-the-badge&logo=github&logoColor=white&color=black" />
+  </a>
+</p>
 
-## Landing Page Moderna
-
-Landing page responsiva desenvolvida com foco em experiência do usuário, organização visual e performance.
+Sistema web full-stack com integração backend e persistência em banco de dados utilizando Node.js, JavaScript e MySQL.
 
 <div align="center">
-
-<img src="assets/landing-page-preview.png" width="85%" style="border-radius:12px;" />
-
+  <img src="assets/sistema-web-preview.png" width="85%" style="border-radius: 12px;" />
 </div>
-
-### Funcionalidades
-
-- Interface responsiva
-- Estrutura semântica
-- Navegação fluida
-- Design moderno
-- Organização visual otimizada
-
-### Tecnologias
-
-HTML • CSS • JavaScript
-
-🔗 Repositório: [Acessar Projeto](#)
 
 ---
 
-## Sistema Web Completo
-
-Sistema web full-stack desenvolvido para gerenciamento de informações com integração backend e persistência em banco de dados.
-
-<div align="center">
-
-<img src="assets/sistema-web-preview.png" width="85%" style="border-radius:12px;" />
-
-</div>
-
-### Funcionalidades
-
-- CRUD completo
-- Integração com MySQL
-- Estrutura modular
-- Rotas backend
-- Organização escalável
-
-### Tecnologias
-
-Node.js • JavaScript • MySQL
-
-🔗 Repositório: [Acessar Projeto](#)
-
----
-
-## Automação e Análise de Dados com Python
+<p>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Python%20Automation-repositório-black?style=for-the-badge&logo=github&logoColor=white&color=black" />
+  </a>
+</p>
 
 Projeto voltado para automação de tarefas e manipulação de dados utilizando Python.
 
 <div align="center">
-
-<img src="assets/python-project-preview.png" width="85%" style="border-radius:12px;" />
-
-</div>
-
-### Funcionalidades
-
-- Automação de processos
-- Manipulação de dados
-- Organização de scripts
-- Estrutura reutilizável
-- Tratamento de informações
-
-### Tecnologias
-
-Python
-
-🔗 Repositório: [Acessar Projeto](#)
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats-gold-theta-94.vercel.app/api?username=Leosouza-devv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="175"/>
-
-<img src="https://github-readme-stats-gold-theta-94.vercel.app/api/top-langs/?username=Leosouza-devv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&exclude_repo=github-readme-stats" height="175"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Leosouza-devv&theme=tokyonight&hide_border=true&background=0D1117" height="175"/>
-
+  <img src="assets/python-project-preview.png" width="85%" style="border-radius: 12px;" />
 </div>
 
 ---
 
-# Contribution Snake
+<h2 style="border-bottom: none;">Stack e ferramentas</h2>
 
-<div align="center">
+<p>
+Uso <strong>JavaScript</strong> e <strong>Node.js</strong> no desenvolvimento web e backend, além de <strong>Python</strong> para automação e manipulação de dados.
+</p>
 
-<img src="https://raw.githubusercontent.com/Leosouza-devv/Leosouza-devv/output/snake.svg"/>
+<p>
+Também utilizo <strong>Git</strong>, <strong>GitHub</strong>, <strong>MySQL</strong>, <strong>VS Code</strong> e <strong>Figma</strong> durante desenvolvimento e organização de projetos.
+</p>
 
-</div>
-
----
-
-# Contato
-
-<div align="center">
-
-<a href="https://mail.google.com/mail/?view=cm&to=leosouza.devv@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/leonardo-s-souza-a054703aa/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://www.instagram.com/leosouza.devv/" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,python,mysql,git,github,vscode,figma" />
+</p>
 
 ---
 
-<div align="center">
+<h2 style="border-bottom: none;">GitHub Analytics</h2>
 
-### “Consistência supera intensidade.”
+<p align="center">
+  <img src="https://github-readme-stats-gold-theta-94.vercel.app/api?username=Leosouza-devv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="175" />
 
-</div>
+  <img src="https://github-readme-stats-gold-theta-94.vercel.app/api/top-langs/?username=Leosouza-devv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&exclude_repo=github-readme-stats" height="175" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Leosouza-devv=github-compact" alt="GitHub activity graph" /></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Leosouza-devv/Leosouza-devv/output/snake.svg" />
+</p>
+
+---
+
+<h2 style="border-bottom: none;">Contato</h2>
+
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&to=leosouza.devv@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/leonardo-s-souza-a054703aa/">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/leosouza.devv/">
+    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <strong>“Consistência supera intensidade.”</strong>
+</p>
+```
