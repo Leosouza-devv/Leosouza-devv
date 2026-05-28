@@ -1,7 +1,12 @@
-
 <div align="center">
 
 <img src="assets/Capa de fundo.png" width="100%" style="border-radius: 12px;" />
+
+<br>
+
+<p>
+Desenvolvedor focado em aplicações web modernas, backend, automação e análise de dados com Python.
+</p>
 
 </div>
 
@@ -9,22 +14,22 @@
 
 # Sobre mim
 
-<table >
+<table border="0">
 <tr>
 
-<td width="70%">
+<td width="75%">
 
-- 🖥️ Desenvolvedor de software
-- 📚 Estudante de Engenharia de Software
-- ⚙️ Estudando backend e banco de dados
-- 🐍 Direcionando estudos para automação e análise de dados com Python
-- 🚀 Construindo aplicações web modernas
+- Desenvolvedor de software
+- Estudante de Engenharia de Software
+- Estudando backend e banco de dados
+- Direcionando estudos para automação e análise de dados com Python
+- Construindo aplicações web modernas e organizadas
 
 </td>
 
-<td width="30%" align="center">
+<td width="25%" align="center">
 
-<img src="assets/computador.png" width="200"/>
+<img src="assets/computador.png" width="150"/>
 
 </td>
 
@@ -35,23 +40,24 @@
 
 # Formação Acadêmica
 
-<table>
+<table border="0">
 <tr>
 
-<td  width="25%" align="center">
+<td width="75%">
 
-<img src="assets/chapeu.png" width="200"/>
+- Bacharelado em Engenharia de Software  
+  Universidade de Vassouras (UV) *(em andamento)*
 
-</td>
-
-<td  width="75%">
-
-- 🎓 Bacharelado em Engenharia de Software — Universidade de Vassouras (UV) *(em andamento)*
-- 💻 Formação em Desenvolvimento Web — Instituto Federal do Rio de Janeiro (IFRJ)
+- Formação em Desenvolvimento Web  
+  Instituto Federal do Rio de Janeiro (IFRJ)
 
 </td>
 
+<td width="25%" align="center">
 
+<img src="assets/chapeu.png" width="145"/>
+
+</td>
 
 </tr>
 </table>
@@ -60,10 +66,10 @@
 
 # Áreas de Estudo
 
-<table>
+<table border="0">
 <tr>
 
-<td width="50%">
+<td width="75%">
 
 Atualmente direciono meus estudos para:
 
@@ -76,9 +82,9 @@ Atualmente direciono meus estudos para:
 
 </td>
 
-<td  width="50%" align="center">
+<td width="25%" align="center">
 
-<img src="assets/lupa.png" width="200"/>
+<img src="assets/lupa.png" width="145"/>
 
 </td>
 
@@ -99,7 +105,7 @@ Atualmente direciono meus estudos para:
 
 # Projetos em Destaque
 
-## 🌐 Landing Page Moderna
+## Landing Page Moderna
 
 Landing page responsiva desenvolvida com foco em experiência do usuário, organização visual e performance.
 
@@ -115,6 +121,7 @@ Landing page responsiva desenvolvida com foco em experiência do usuário, organ
 - Estrutura semântica
 - Navegação fluida
 - Design moderno
+- Organização visual otimizada
 
 ### Tecnologias
 
@@ -124,7 +131,7 @@ HTML • CSS • JavaScript
 
 ---
 
-## ⚙️ Sistema Web Completo
+## Sistema Web Completo
 
 Sistema web full-stack desenvolvido para gerenciamento de informações com integração backend e persistência em banco de dados.
 
@@ -140,6 +147,7 @@ Sistema web full-stack desenvolvido para gerenciamento de informações com inte
 - Integração com MySQL
 - Estrutura modular
 - Rotas backend
+- Organização escalável
 
 ### Tecnologias
 
@@ -149,7 +157,7 @@ Node.js • JavaScript • MySQL
 
 ---
 
-## 🐍 Automação e Análise de Dados com Python
+## Automação e Análise de Dados com Python
 
 Projeto voltado para automação de tarefas e manipulação de dados utilizando Python.
 
@@ -165,6 +173,7 @@ Projeto voltado para automação de tarefas e manipulação de dados utilizando 
 - Manipulação de dados
 - Organização de scripts
 - Estrutura reutilizável
+- Tratamento de informações
 
 ### Tecnologias
 
@@ -198,7 +207,7 @@ Python
 
 ---
 
-# Entre em contato comigo
+# Contato
 
 <div align="center">
 
@@ -223,4 +232,3 @@ Python
 ### “Consistência supera intensidade.”
 
 </div>
-
