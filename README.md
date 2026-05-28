@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
 
 <img src="assets/Capa de fundo.png" width="100%" style="border-radius: 12px;" />
@@ -225,4 +225,4 @@ Python
 ### “Consistência supera intensidade.”
 
 </div>
-```
+
