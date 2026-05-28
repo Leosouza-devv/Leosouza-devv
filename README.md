@@ -159,19 +159,19 @@ Também utilizo <strong>Git</strong>, <strong>GitHub</strong>, <strong>MySQL</st
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-gold-theta-94.vercel.app/api?username=Leosouza-devv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=111827" 
+    src="https://github-readme-stats-gold-theta-94.vercel.app/api?username=Leosouza-devv&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e" 
     height="175" 
   />
 
   <img 
-    src="https://github-readme-stats-gold-theta-94.vercel.app/api/top-langs/?username=Leosouza-devv&layout=compact&theme=tokyonight&hide_border=true&bg_color=111827&exclude_repo=github-readme-stats" 
+    src="https://github-readme-stats-gold-theta-94.vercel.app/api/top-langs/?username=Leosouza-devv&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&exclude_repo=github-readme-stats" 
     height="175" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Leosouza-devv&theme=github-dark&hide_border=true&bg_color=111827&color=22c55e&line=22c55e&point=86efac" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Leosouza-devv&theme=github-dark&hide_border=true&bg_color=0d1117&color=8b949e&line=6e7681&point=c9d1d9" 
     alt="GitHub activity graph" 
   />
 </p>
