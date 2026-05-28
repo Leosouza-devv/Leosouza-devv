@@ -1,13 +1,13 @@
+```md
 <p align="center">
   <img src="assets/Capa de fundo.png" alt="Banner" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-LEARNING-success?style=for-the-badge&color=black" />
-  <img src="https://img.shields.io/badge/FOCUS-BACKEND-blue?style=for-the-badge&color=black" />
+  <img src="https://img.shields.io/badge/STATUS-BUILDING-success?style=for-the-badge&color=black" />
+  <img src="https://img.shields.io/badge/FOCUS-FULLSTACK-blue?style=for-the-badge&color=black" />
   <img src="https://img.shields.io/badge/PYTHON-AUTOMATION-informational?style=for-the-badge&color=black" />
   <img src="https://img.shields.io/badge/STACK-WEB_DEV-orange?style=for-the-badge&color=black" />
-  <img src="https://img.shields.io/badge/MODE-BUILDING-critical?style=for-the-badge&color=black" />
 </p>
 
 ---
@@ -17,15 +17,15 @@
 <img align="left" src="assets/computador.png" width="170" style="margin-right: 20px; margin-bottom: 10px;" />
 
 <p>
-Estudante de Engenharia de Software pela Universidade de Vassouras (UV) e desenvolvedor focado em aplicações web, backend e automação com Python.
+Estudante de Engenharia de Software pela Universidade de Vassouras (UV) e desenvolvedor voltado para aplicações web, backend e automação com Python.
 </p>
 
 <p>
-Tenho direcionado meus estudos para construção de sistemas mais organizados, integração backend, manipulação de dados e desenvolvimento de soluções práticas.
+Tenho direcionado meus estudos para construção de sistemas mais organizados, integração entre backend e banco de dados, manipulação de informações e desenvolvimento de soluções práticas.
 </p>
 
 <p>
-Atualmente busco evoluir principalmente em arquitetura de aplicações, automação de processos e desenvolvimento backend com Node.js e Python.
+Atualmente busco aprofundar conhecimentos em arquitetura de aplicações, estruturação de código e automação de processos utilizando Node.js e Python.
 </p>
 
 <br clear="left"/>
@@ -37,8 +37,13 @@ Atualmente busco evoluir principalmente em arquitetura de aplicações, automaç
 <img align="right" src="assets/chapeu.png" width="160" style="margin-left: 20px; margin-bottom: 10px;" />
 
 <ul>
-  <li><strong>Bacharelado em Engenharia de Software</strong> — Universidade de Vassouras (UV) <em>(em andamento)</em></li>
-  <li><strong>Formação em Desenvolvimento Web</strong> — Instituto Federal do Rio de Janeiro (IFRJ)</li>
+  <li>
+    <strong>Bacharelado em Engenharia de Software</strong> — Universidade de Vassouras (UV) <em>(em andamento)</em>
+  </li>
+
+  <li>
+    <strong>Formação em Desenvolvimento Web</strong> — Instituto Federal do Rio de Janeiro (IFRJ)
+  </li>
 </ul>
 
 <br clear="right"/>
@@ -50,11 +55,11 @@ Atualmente busco evoluir principalmente em arquitetura de aplicações, automaç
 <img align="left" src="assets/lupa.png" width="160" style="margin-right: 20px; margin-bottom: 10px;" />
 
 <ul>
-  <li>Construir aplicações web mais organizadas e escaláveis.</li>
-  <li>Aprofundar conhecimentos em backend com Node.js.</li>
-  <li>Explorar automação e análise de dados com Python.</li>
-  <li>Melhorar estruturação de código e arquitetura de aplicações.</li>
-  <li>Desenvolver projetos voltados para problemas reais.</li>
+  <li>Construção de aplicações backend mais organizadas e escaláveis.</li>
+  <li>Automação de tarefas e manipulação de dados com Python.</li>
+  <li>Modelagem e integração com bancos de dados relacionais.</li>
+  <li>Melhoria contínua em arquitetura e estruturação de projetos.</li>
+  <li>Desenvolvimento de soluções voltadas para problemas reais.</li>
 </ul>
 
 <br clear="left"/>
@@ -65,7 +70,7 @@ Atualmente busco evoluir principalmente em arquitetura de aplicações, automaç
 
 <p>
   <a href="#">
-    <img src="https://img.shields.io/badge/Landing%20Page-repositório-black?style=for-the-badge&logo=github&logoColor=white&color=black" />
+    <img src="https://img.shields.io/badge/Landing_Page-repositório-black?style=for-the-badge&logo=github&logoColor=white&color=black" />
   </a>
 </p>
 
@@ -79,11 +84,11 @@ Landing page responsiva desenvolvida com foco em experiência do usuário, organ
 
 <p>
   <a href="#">
-    <img src="https://img.shields.io/badge/Sistema%20Web-repositório-black?style=for-the-badge&logo=github&logoColor=white&color=black" />
+    <img src="https://img.shields.io/badge/Sistema_Web-repositório-black?style=for-the-badge&logo=github&logoColor=white&color=black" />
   </a>
 </p>
 
-Sistema web full-stack com integração backend e persistência em banco de dados utilizando Node.js, JavaScript e MySQL.
+Sistema web full-stack com integração backend e persistência de dados utilizando Node.js, JavaScript e MySQL.
 
 <div align="center">
   <img src="assets/sistema-web-preview.png" width="85%" style="border-radius: 12px;" />
@@ -93,7 +98,7 @@ Sistema web full-stack com integração backend e persistência em banco de dado
 
 <p>
   <a href="#">
-    <img src="https://img.shields.io/badge/Python%20Automation-repositório-black?style=for-the-badge&logo=github&logoColor=white&color=black" />
+    <img src="https://img.shields.io/badge/Python_Automation-repositório-black?style=for-the-badge&logo=github&logoColor=white&color=black" />
   </a>
 </p>
 
@@ -108,11 +113,11 @@ Projeto voltado para automação de tarefas e manipulação de dados utilizando 
 <h2 style="border-bottom: none;">Stack e ferramentas</h2>
 
 <p>
-Uso <strong>JavaScript</strong> e <strong>Node.js</strong> no desenvolvimento web e backend, além de <strong>Python</strong> para automação e manipulação de dados.
+Utilizo <strong>JavaScript</strong> e <strong>Node.js</strong> no desenvolvimento de aplicações web e backend, além de <strong>Python</strong> para automação, scripts e manipulação de dados.
 </p>
 
 <p>
-Também utilizo <strong>Git</strong>, <strong>GitHub</strong>, <strong>MySQL</strong>, <strong>VS Code</strong> e <strong>Figma</strong> durante desenvolvimento e organização de projetos.
+Também utilizo <strong>Git</strong>, <strong>GitHub</strong>, <strong>MySQL</strong>, <strong>VS Code</strong> e <strong>Figma</strong> durante desenvolvimento, versionamento e organização de projetos.
 </p>
 
 <p align="center">
@@ -130,7 +135,7 @@ Também utilizo <strong>Git</strong>, <strong>GitHub</strong>, <strong>MySQL</st
 </p>
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Leosouza-devv=github-compact" alt="GitHub activity graph" /></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leosouza-devv&theme=github-compact&hide_border=true" alt="GitHub activity graph" />
 </p>
 
 <p align="center">
@@ -160,3 +165,4 @@ Também utilizo <strong>Git</strong>, <strong>GitHub</strong>, <strong>MySQL</st
 <p align="center">
   <strong>“Consistência supera intensidade.”</strong>
 </p>
+```
