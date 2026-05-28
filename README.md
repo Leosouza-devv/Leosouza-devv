@@ -19,7 +19,13 @@
 
   # Formação Acadêmica
 
+  <br>
+  <br>
+
   <img src="assets/chapeu.png" align="left" src="assets/brain.png" alt="Ilustração em halftone de um cérebro" width="180" style="margin-right: 20px; margin-bottom: 8px;">
+
+  <br>
+  <br>
 
 </div>
 
