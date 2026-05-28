@@ -1,19 +1,28 @@
+```md
 <p align="center">
   <img src="assets/Capa de fundo.png" alt="Banner" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-BUILDING-success?style=for-the-badge&color=black" />
-  <img src="https://img.shields.io/badge/FOCUS-FULLSTACK-blue?style=for-the-badge&color=black" />
-  <img src="https://img.shields.io/badge/PYTHON-AUTOMATION-informational?style=for-the-badge&color=black" />
-  <img src="https://img.shields.io/badge/STACK-WEB_DEV-orange?style=for-the-badge&color=black" />
+  <img src="https://img.shields.io/badge/STATUS-BUILDING-1f2937?style=for-the-badge&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/FOCUS-FULLSTACK-166534?style=for-the-badge&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/PYTHON-AUTOMATION-15803d?style=for-the-badge&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/STACK-WEB_DEV-374151?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
 
 <h2 style="border-bottom: none;">Sobre mim</h2>
 
-<img align="left" src="assets/computador.png" width="170" style="margin-right: 20px; margin-bottom: 10px;" />
+<img 
+  align="left" 
+  src="assets/computador.png" 
+  width="165" 
+  style="margin-right: 20px; margin-bottom: 10px;" 
+/>
 
 <p>
 Estudante de Engenharia de Software pela Universidade de Vassouras (UV) e desenvolvedor voltado para aplicações web, backend e automação com Python.
@@ -33,7 +42,12 @@ Atualmente busco aprofundar conhecimentos em arquitetura de aplicações, estrut
 
 <h2 style="border-bottom: none;">Formação Acadêmica</h2>
 
-<img align="right" src="assets/chapeu.png" width="160" style="margin-left: 20px; margin-bottom: 10px;" />
+<img 
+  align="right" 
+  src="assets/chapeu.png" 
+  width="155" 
+  style="margin-left: 20px; margin-bottom: 10px;" 
+/>
 
 <ul>
   <li>
@@ -51,7 +65,12 @@ Atualmente busco aprofundar conhecimentos em arquitetura de aplicações, estrut
 
 <h2 style="border-bottom: none;">Foco no momento</h2>
 
-<img align="left" src="assets/lupa.png" width="160" style="margin-right: 20px; margin-bottom: 10px;" />
+<img 
+  align="left" 
+  src="assets/lupa.png" 
+  width="155" 
+  style="margin-right: 20px; margin-bottom: 10px;" 
+/>
 
 <ul>
   <li>Construção de aplicações backend mais organizadas e escaláveis.</li>
@@ -69,42 +88,54 @@ Atualmente busco aprofundar conhecimentos em arquitetura de aplicações, estrut
 
 <p>
   <a href="#">
-    <img src="https://img.shields.io/badge/Landing_Page-repositório-black?style=for-the-badge&logo=github&logoColor=white&color=black" />
+    <img src="https://img.shields.io/badge/Landing_Page-repositório-166534?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 Landing page responsiva desenvolvida com foco em experiência do usuário, organização visual e performance utilizando HTML, CSS e JavaScript.
 
 <div align="center">
-  <img src="assets/landing-page-preview.png" width="85%" style="border-radius: 12px;" />
+  <img 
+    src="assets/landing-page-preview.png" 
+    width="85%" 
+    style="border-radius: 12px;" 
+  />
 </div>
 
 ---
 
 <p>
   <a href="#">
-    <img src="https://img.shields.io/badge/Sistema_Web-repositório-black?style=for-the-badge&logo=github&logoColor=white&color=black" />
+    <img src="https://img.shields.io/badge/Sistema_Web-repositório-1f2937?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 Sistema web full-stack com integração backend e persistência de dados utilizando Node.js, JavaScript e MySQL.
 
 <div align="center">
-  <img src="assets/sistema-web-preview.png" width="85%" style="border-radius: 12px;" />
+  <img 
+    src="assets/sistema-web-preview.png" 
+    width="85%" 
+    style="border-radius: 12px;" 
+  />
 </div>
 
 ---
 
 <p>
   <a href="#">
-    <img src="https://img.shields.io/badge/Python_Automation-repositório-black?style=for-the-badge&logo=github&logoColor=white&color=black" />
+    <img src="https://img.shields.io/badge/Python_Automation-repositório-15803d?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 Projeto voltado para automação de tarefas e manipulação de dados utilizando Python.
 
 <div align="center">
-  <img src="assets/python-project-preview.png" width="85%" style="border-radius: 12px;" />
+  <img 
+    src="assets/python-project-preview.png" 
+    width="85%" 
+    style="border-radius: 12px;" 
+  />
 </div>
 
 ---
@@ -128,13 +159,22 @@ Também utilizo <strong>Git</strong>, <strong>GitHub</strong>, <strong>MySQL</st
 <h2 style="border-bottom: none;">GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-gold-theta-94.vercel.app/api?username=Leosouza-devv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="175" />
+  <img 
+    src="https://github-readme-stats-gold-theta-94.vercel.app/api?username=Leosouza-devv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=111827" 
+    height="175" 
+  />
 
-  <img src="https://github-readme-stats-gold-theta-94.vercel.app/api/top-langs/?username=Leosouza-devv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&exclude_repo=github-readme-stats" height="175" />
+  <img 
+    src="https://github-readme-stats-gold-theta-94.vercel.app/api/top-langs/?username=Leosouza-devv&layout=compact&theme=tokyonight&hide_border=true&bg_color=111827&exclude_repo=github-readme-stats" 
+    height="175" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leosouza-devv&theme=github-compact&hide_border=true" alt="GitHub activity graph" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Leosouza-devv&theme=github-dark&hide_border=true&bg_color=111827&color=22c55e&line=22c55e&point=86efac" 
+    alt="GitHub activity graph" 
+  />
 </p>
 
 <p align="center">
@@ -147,15 +187,15 @@ Também utilizo <strong>Git</strong>, <strong>GitHub</strong>, <strong>MySQL</st
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&to=leosouza.devv@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-1f2937?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/leonardo-s-souza-a054703aa/">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-166534?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://www.instagram.com/leosouza.devv/">
-    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-374151?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -164,3 +204,4 @@ Também utilizo <strong>Git</strong>, <strong>GitHub</strong>, <strong>MySQL</st
 <p align="center">
   <strong>“Consistência supera intensidade.”</strong>
 </p>
+```
