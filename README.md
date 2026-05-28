@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  # 🚀 Sobre mim
+  # Sobre mim
 
 </div>
 
@@ -17,21 +17,23 @@
 ---
 <div align="center">
 
-  # 🎓 Formação Acadêmica
+  # Formação Acadêmica
 
 </div>
-
+<img src="assets/computador.png" align="left" src="assets/brain.png" alt="Ilustração em halftone de um cérebro" width="180" style="margin-right: 20px; margin-bottom: 8px;">
 - 🎓 Bacharelado em Engenharia de Software — Universidade de Vassouras (UV) *(em andamento)*
 - 💻 Formação em Desenvolvimento Web — Instituto Federal do Rio de Janeiro (IFRJ)
 
 ---
 <div align="center">
 
-  # 📚 Áreas de Estudo
+  # Áreas de Estudo
 
 </div>
 
 Atualmente direciono meus estudos para:
+
+<img src="assets/computador.png" align="right" src="assets/brain.png" alt="Ilustração em halftone de um cérebro" width="180" style="margin-right: 20px; margin-bottom: 8px;">
 
 - backend com Node.js;
 - automação com Python;
@@ -39,7 +41,6 @@ Atualmente direciono meus estudos para:
 - bancos de dados relacionais;
 - arquitetura de aplicações;
 - boas práticas de desenvolvimento de software.
-<img src="assets/computador.png">
 
 
 <div align="center">
@@ -51,10 +52,100 @@ Atualmente direciono meus estudos para:
 ---
 
 <br>
-
 <div align="center">
 
-  # 📊 GitHub Analytics
+# Projetos em Destaque
+
+</div>
+
+## 🌐 Landing Page Moderna
+
+Landing page responsiva focada em performance, design moderno e experiência do usuário.
+
+<div align="center">
+  <img src="assets/landing-page-preview.png" width="85%" style="border-radius: 12px;" />
+</div>
+
+### Tecnologias
+HTML • CSS • JavaScript
+
+### ✨ Destaques
+- Interface responsiva
+- Estrutura semântica
+- Design moderno
+- Otimização visual
+
+🔗 Repositório: <a href="#"></a>
+
+---
+
+## Sistema Web Completo
+
+Aplicação web com integração backend e persistência de dados.
+
+<div align="center">
+  <img src="assets/sistema-web-preview.png" width="85%" style="border-radius: 12px;" />
+</div>
+
+### Tecnologias
+Node.js • JavaScript • MySQL
+
+### ✨ Destaques
+- Integração backend
+- Estrutura organizada
+- Persistência de dados
+- CRUD completo
+
+🔗 Repositório: <a href="#"></a>
+
+---
+
+## Automação e Análise de Dados com Python
+
+Projeto voltado para automação de tarefas e manipulação de dados utilizando Python.
+
+<div align="center">
+  <img src="assets/python-project-preview.png" width="85%" style="border-radius: 12px;" />
+</div>
+
+### Tecnologias
+Python
+
+### ✨ Destaques
+- Automação de processos
+- Manipulação de dados
+- Organização de scripts
+- Estrutura reutilizável
+
+🔗 Repositório: <a href="#"></a>
+
+---
+
+## Dashboard Administrativo
+
+Dashboard moderno para visualização e gerenciamento de informações.
+
+<div align="center">
+  <img src="assets/dashboard-preview.png" width="85%" style="border-radius: 12px;" />
+</div>
+
+### Tecnologias
+JavaScript • CSS • Node.js
+
+### ✨ Destaques
+- Interface intuitiva
+- Estrutura modular
+- Visualização organizada
+- Responsividade
+
+🔗 Repositório: <a href="#"></a>
+
+
+
+---
+<div align="center">
+
+  # GitHub Analytics
 
 </div>
 <div align="center">
@@ -79,7 +170,7 @@ Atualmente direciono meus estudos para:
 
 <div align="center">
 
-# 📫 Entre em contato comigo
+# Entre em contato comigo
 
 </div>
 
