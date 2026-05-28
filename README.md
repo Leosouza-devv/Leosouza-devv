@@ -159,12 +159,14 @@ Também utilizo <strong>Git</strong>, <strong>GitHub</strong>, <strong>MySQL</st
 
 <p align="center">
 
-  <img 
+  <img
+    align="center" 
     src="https://github-readme-stats-gold-theta-94.vercel.app/api?username=Leosouza-devv&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e" 
     width="49%" 
   />
 
   <img 
+    align="center"
     src="https://github-readme-stats-gold-theta-94.vercel.app/api/top-langs/?username=Leosouza-devv&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&exclude_repo=github-readme-stats&langs_count=6" 
     width="37%" 
   />
