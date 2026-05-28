@@ -3,10 +3,6 @@
 
 <img src="assets/Capa de fundo.png" width="100%" style="border-radius: 12px;" />
 
-# Leonardo Souza 👨‍💻
-
-### Software Engineer • Full-stack Developer
-
 </div>
 
 ---
@@ -14,7 +10,7 @@
 # Sobre mim
 
 <table>
-<tr>
+<tr border="0">
 
 <td width="75%">
 
@@ -28,7 +24,7 @@
 
 <td width="25%" align="center">
 
-<img src="assets/computador.png" width="160"/>
+<img src="assets/computador.png" width="200"/>
 
 </td>
 
@@ -40,7 +36,13 @@
 # Formação Acadêmica
 
 <table>
-<tr>
+<tr border="0">
+
+<td width="25%" align="center">
+
+<img src="assets/chapeu.png" width="200"/>
+
+</td>
 
 <td width="75%">
 
@@ -49,11 +51,7 @@
 
 </td>
 
-<td width="25%" align="center">
 
-<img src="assets/chapeu.png" width="150"/>
-
-</td>
 
 </tr>
 </table>
@@ -63,7 +61,7 @@
 # Áreas de Estudo
 
 <table>
-<tr>
+<tr border="0">
 
 <td width="75%">
 
@@ -80,7 +78,7 @@ Atualmente direciono meus estudos para:
 
 <td width="25%" align="center">
 
-<img src="assets/lupa.png" width="150"/>
+<img src="assets/lupa.png" width="200"/>
 
 </td>
 
