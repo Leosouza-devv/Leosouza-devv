@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/Capa de fundo.png" width="100%" height="100%" />
+  <img src="assets/Capa de fundo.png" width="100%" height="100%" style="border-radius:12px;"/>
 </div>
 
 <div align="center">
@@ -18,9 +18,9 @@
 <div align="center">
 
   # Formação Acadêmica
-
+<img src="assets/chapeu.png.png" align="left" src="assets/brain.png" alt="Ilustração em halftone de um cérebro" width="180" style="margin-right: 20px; margin-bottom: 8px;">
 </div>
-<img src="assets/computador.png" align="left" src="assets/brain.png" alt="Ilustração em halftone de um cérebro" width="180" style="margin-right: 20px; margin-bottom: 8px;">
+
 - 🎓 Bacharelado em Engenharia de Software — Universidade de Vassouras (UV) *(em andamento)*
 - 💻 Formação em Desenvolvimento Web — Instituto Federal do Rio de Janeiro (IFRJ)
 
@@ -57,6 +57,8 @@ Atualmente direciono meus estudos para:
 # Projetos em Destaque
 
 </div>
+
+<img src="assets/lupa.png" align="right" src="assets/brain.png" alt="Ilustração em halftone de um cérebro" width="180" style="margin-right: 20px; margin-bottom: 8px;">
 
 ## 🌐 Landing Page Moderna
 
