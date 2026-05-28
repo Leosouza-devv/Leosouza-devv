@@ -1,4 +1,3 @@
-```md
 <p align="center">
   <img src="assets/Capa de fundo.png" alt="Banner" />
 </p>
@@ -161,4 +160,3 @@ Também utilizo <strong>Git</strong>, <strong>GitHub</strong>, <strong>MySQL</st
 <p align="center">
   <strong>“Consistência supera intensidade.”</strong>
 </p>
-```
