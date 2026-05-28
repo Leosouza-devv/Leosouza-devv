@@ -19,12 +19,12 @@
 
   # Formação Acadêmica
 
-  <img src="assets/chapeu.png.png" align="left" src="assets/brain.png" alt="Ilustração em halftone de um cérebro" width="180" style="margin-right: 20px; margin-bottom: 8px;">
-
 </div>
 
 - 🎓 Bacharelado em Engenharia de Software — Universidade de Vassouras (UV) *(em andamento)*
 - 💻 Formação em Desenvolvimento Web — Instituto Federal do Rio de Janeiro (IFRJ)
+
+<img src="assets/chapeu.png.png" align="left" src="assets/brain.png" alt="Ilustração em halftone de um cérebro" width="180" style="margin-right: 20px; margin-bottom: 8px;">
 
 ---
 <div align="center">
