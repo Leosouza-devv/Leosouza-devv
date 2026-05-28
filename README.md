@@ -18,7 +18,9 @@
 <div align="center">
 
   # Formação Acadêmica
-<img src="assets/chapeu.png.png" align="left" src="assets/brain.png" alt="Ilustração em halftone de um cérebro" width="180" style="margin-right: 20px; margin-bottom: 8px;">
+
+  <img src="assets/chapeu.png.png" align="left" src="assets/brain.png" alt="Ilustração em halftone de um cérebro" width="180" style="margin-right: 20px; margin-bottom: 8px;">
+
 </div>
 
 - 🎓 Bacharelado em Engenharia de Software — Universidade de Vassouras (UV) *(em andamento)*
