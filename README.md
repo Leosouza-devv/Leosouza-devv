@@ -10,9 +10,9 @@
 # Sobre mim
 
 <table>
-<tr border="0">
+<tr align="center">
 
-<td width="75%">
+<td border="0" width="75%">
 
 - 🖥️ Desenvolvedor de software
 - 📚 Estudante de Engenharia de Software
@@ -22,7 +22,7 @@
 
 </td>
 
-<td width="25%" align="center">
+<td border="0" width="25%" align="center">
 
 <img src="assets/computador.png" width="200"/>
 
@@ -36,15 +36,15 @@
 # Formação Acadêmica
 
 <table>
-<tr border="0">
+<tr align="center">
 
-<td width="25%" align="center">
+<td border="0" width="25%" align="center">
 
 <img src="assets/chapeu.png" width="200"/>
 
 </td>
 
-<td width="75%">
+<td border="0" width="75%">
 
 - 🎓 Bacharelado em Engenharia de Software — Universidade de Vassouras (UV) *(em andamento)*
 - 💻 Formação em Desenvolvimento Web — Instituto Federal do Rio de Janeiro (IFRJ)
@@ -61,9 +61,9 @@
 # Áreas de Estudo
 
 <table>
-<tr border="0">
+<tr align="center">
 
-<td width="75%">
+<td border="0" width="75%">
 
 Atualmente direciono meus estudos para:
 
@@ -76,7 +76,7 @@ Atualmente direciono meus estudos para:
 
 </td>
 
-<td width="25%" align="center">
+<td border="0" width="25%" align="center">
 
 <img src="assets/lupa.png" width="200"/>
 
