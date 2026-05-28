@@ -157,7 +157,7 @@ Também utilizo <strong>Git</strong>, <strong>GitHub</strong>, <strong>MySQL</st
 
 <h2 style="border-bottom: none;">GitHub Analytics</h2>
 
-<div>
+<div style="display:flex;">
   <img
     align="left" 
     src="https://github-readme-stats-gold-theta-94.vercel.app/api?username=Leosouza-devv&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e" 
