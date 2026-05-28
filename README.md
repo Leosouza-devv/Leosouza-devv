@@ -82,7 +82,7 @@ Atualmente busco aprofundar conhecimentos em arquitetura de aplicações, estrut
 <br clear="left"/>
 
 ---
-
+<!-- 
 <h2 style="border-bottom: none;">Projetos em destaque</h2>
 
 <p>
@@ -137,7 +137,7 @@ Projeto voltado para automação de tarefas e manipulação de dados utilizando 
   />
 </div>
 
----
+--- -->
 
 <h2 style="border-bottom: none;">Stack e ferramentas</h2>
 
