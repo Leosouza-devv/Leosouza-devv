@@ -19,7 +19,7 @@
 <img 
   align="left" 
   src="assets/computador.png" 
-  width="165" 
+  width="200px" 
   style="margin-right: 20px; margin-bottom: 10px;" 
 />
 
@@ -44,7 +44,7 @@ Atualmente busco aprofundar conhecimentos em arquitetura de aplicações, estrut
 <img 
   align="right" 
   src="assets/chapeu.png" 
-  width="155" 
+  width="200px" 
   style="margin-left: 20px; margin-bottom: 10px;" 
 />
 
@@ -67,7 +67,7 @@ Atualmente busco aprofundar conhecimentos em arquitetura de aplicações, estrut
 <img 
   align="left" 
   src="assets/lupa.png" 
-  width="155" 
+  width="200px" 
   style="margin-right: 20px; margin-bottom: 10px;" 
 />
 
