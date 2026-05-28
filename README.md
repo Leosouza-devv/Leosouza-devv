@@ -88,10 +88,6 @@ Atualmente direciono meus estudos para:
 
 # Projetos em Destaque
 
-<img src="assets/lupa.png" align="right" src="assets/brain.png" alt="Ilustração em halftone de um cérebro" width="180" style="margin-right: 20px; margin-bottom: 8px;">
-<br>
-<br>
-
 </div>
 
 ## 🌐 Landing Page Moderna
@@ -113,8 +109,13 @@ HTML • CSS • JavaScript
 
 🔗 Repositório: <a href="#"></a>
 
----
+<img src="assets/lupa.png" align="right" src="assets/brain.png" alt="Ilustração em halftone de um cérebro" width="180" style="margin-right: 20px; margin-bottom: 8px;">
+<br>
+<br>
 
+---
+<!-- abtmc -->
+<!-- 
 ## Sistema Web Completo
 
 Aplicação web com integração backend e persistência de dados.
@@ -131,6 +132,8 @@ Node.js • JavaScript • MySQL
 - Estrutura organizada
 - Persistência de dados
 - CRUD completo
+
+
 
 🔗 Repositório: <a href="#"></a>
 
@@ -178,7 +181,7 @@ JavaScript • CSS • Node.js
 
 
 
----
+--- -->
 <div align="center">
 
   # GitHub Analytics
