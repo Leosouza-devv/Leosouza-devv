@@ -1,12 +1,22 @@
-<div align="center">
-  <img src="assets/Capa de fundo.png" width="100%" height="100%" style="border-radius:12px;"/>
-</div>
-
+```md
 <div align="center">
 
-  # Sobre mim
+<img src="assets/Capa de fundo.png" width="100%" style="border-radius: 12px;" />
+
+# Leonardo Souza 👨‍💻
+
+### Software Engineer • Full-stack Developer
 
 </div>
+
+---
+
+# Sobre mim
+
+<table>
+<tr>
+
+<td width="75%">
 
 - 🖥️ Desenvolvedor de software
 - 📚 Estudante de Engenharia de Software
@@ -14,211 +24,198 @@
 - 🐍 Direcionando estudos para automação e análise de dados com Python
 - 🚀 Construindo aplicações web modernas
 
+</td>
+
+<td width="25%" align="center">
+
+<img src="assets/computador.png" width="160"/>
+
+</td>
+
+</tr>
+</table>
+
 ---
 
+# Formação Acadêmica
 
+<table>
+<tr>
 
-
-<div align="center">
-<br>
-<br>
-
-  # Formação Acadêmica
-  
-
-<img src="assets/chapeu.png" align="left" src="assets/brain.png" alt="Ilustração em halftone de um cérebro" width="180" style="margin-right: 20px; margin-bottom: 8px;">
-
-<br>
-<br>
-
-</div>
+<td width="75%">
 
 - 🎓 Bacharelado em Engenharia de Software — Universidade de Vassouras (UV) *(em andamento)*
 - 💻 Formação em Desenvolvimento Web — Instituto Federal do Rio de Janeiro (IFRJ)
 
+</td>
 
-<br>
-<br>
+<td width="25%" align="center">
+
+<img src="assets/chapeu.png" width="150"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
-<div align="center">
 
-<br>
-<br>
+# Áreas de Estudo
 
-  # Áreas de Estudo
+<table>
+<tr>
 
-<img src="assets/computador.png" align="right" src="assets/brain.png" alt="Ilustração em halftone de um cérebro" width="180" style="margin-right: 20px; margin-bottom: 8px;">
-
-<br>
-<br>
-
-
-</div>
+<td width="75%">
 
 Atualmente direciono meus estudos para:
 
+- backend com Node.js
+- automação com Python
+- análise e manipulação de dados
+- bancos de dados relacionais
+- arquitetura de aplicações
+- boas práticas de desenvolvimento de software
 
+</td>
 
-- backend com Node.js;
-- automação com Python;
-- análise e manipulação de dados;
-- bancos de dados relacionais;
-- arquitetura de aplicações;
-- boas práticas de desenvolvimento de software.
+<td width="25%" align="center">
 
+<img src="assets/lupa.png" width="150"/>
 
-<div align="center">
-<br>
-<br>
+</td>
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,python,mysql,git,github,vscode,vercel,figma">
-
-</div>
-
-<br>
-<br>
+</tr>
+</table>
 
 ---
 
+# Tecnologias e Ferramentas
 
 <div align="center">
-<br>
-<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,python,mysql,git,github,vscode,vercel,figma" />
+
+</div>
+
+---
 
 # Projetos em Destaque
 
-</div>
-
 ## 🌐 Landing Page Moderna
 
-Landing page responsiva focada em performance, design moderno e experiência do usuário.
+Landing page responsiva desenvolvida com foco em experiência do usuário, organização visual e performance.
 
 <div align="center">
-  <img src="assets/landing-page-preview.png" width="85%" style="border-radius: 12px;" />
+
+<img src="assets/landing-page-preview.png" width="85%" style="border-radius:12px;" />
+
 </div>
 
-### Tecnologias
-HTML • CSS • JavaScript
+### Funcionalidades
 
-### ✨ Destaques
 - Interface responsiva
 - Estrutura semântica
+- Navegação fluida
 - Design moderno
-- Otimização visual
-
-🔗 Repositório: <a href="#"></a>
-
-<img src="assets/lupa.png" align="right" src="assets/brain.png" alt="Ilustração em halftone de um cérebro" width="180" style="margin-right: 20px; margin-bottom: 8px;">
-<br>
-<br>
-
----
-<!-- abtmc -->
-<!-- 
-## Sistema Web Completo
-
-Aplicação web com integração backend e persistência de dados.
-
-<div align="center">
-  <img src="assets/sistema-web-preview.png" width="85%" style="border-radius: 12px;" />
-</div>
 
 ### Tecnologias
-Node.js • JavaScript • MySQL
 
-### ✨ Destaques
-- Integração backend
-- Estrutura organizada
-- Persistência de dados
-- CRUD completo
+HTML • CSS • JavaScript
 
-
-
-🔗 Repositório: <a href="#"></a>
+🔗 Repositório: [Acessar Projeto](#)
 
 ---
 
-## Automação e Análise de Dados com Python
+## ⚙️ Sistema Web Completo
+
+Sistema web full-stack desenvolvido para gerenciamento de informações com integração backend e persistência em banco de dados.
+
+<div align="center">
+
+<img src="assets/sistema-web-preview.png" width="85%" style="border-radius:12px;" />
+
+</div>
+
+### Funcionalidades
+
+- CRUD completo
+- Integração com MySQL
+- Estrutura modular
+- Rotas backend
+
+### Tecnologias
+
+Node.js • JavaScript • MySQL
+
+🔗 Repositório: [Acessar Projeto](#)
+
+---
+
+## 🐍 Automação e Análise de Dados com Python
 
 Projeto voltado para automação de tarefas e manipulação de dados utilizando Python.
 
 <div align="center">
-  <img src="assets/python-project-preview.png" width="85%" style="border-radius: 12px;" />
+
+<img src="assets/python-project-preview.png" width="85%" style="border-radius:12px;" />
+
 </div>
 
-### Tecnologias
-Python
+### Funcionalidades
 
-### ✨ Destaques
 - Automação de processos
 - Manipulação de dados
 - Organização de scripts
 - Estrutura reutilizável
 
-🔗 Repositório: <a href="#"></a>
+### Tecnologias
+
+Python
+
+🔗 Repositório: [Acessar Projeto](#)
 
 ---
 
-## Dashboard Administrativo
-
-Dashboard moderno para visualização e gerenciamento de informações.
+# GitHub Analytics
 
 <div align="center">
-  <img src="assets/dashboard-preview.png" width="85%" style="border-radius: 12px;" />
+
+<img src="https://github-readme-stats-gold-theta-94.vercel.app/api?username=Leosouza-devv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="175"/>
+
+<img src="https://github-readme-stats-gold-theta-94.vercel.app/api/top-langs/?username=Leosouza-devv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&exclude_repo=github-readme-stats" height="175"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Leosouza-devv&theme=tokyonight&hide_border=true&background=0D1117" height="175"/>
+
 </div>
 
-### Tecnologias
-JavaScript • CSS • Node.js
+---
 
-### ✨ Destaques
-- Interface intuitiva
-- Estrutura modular
-- Visualização organizada
-- Responsividade
+# Contribution Snake
 
-🔗 Repositório: <a href="#"></a>
-
-
-
---- -->
 <div align="center">
 
-  # GitHub Analytics
+<img src="https://raw.githubusercontent.com/Leosouza-devv/Leosouza-devv/output/snake.svg"/>
 
 </div>
-<div align="center">
-  <table border="0" style="background-color: transparent;">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats-gold-theta-94.vercel.app/api?username=Leosouza-devv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400&random=1" height="175" alt="GitHub Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats-gold-theta-94.vercel.app/api/top-langs/?username=Leosouza-devv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400&random=1&exclude_repo=github-readme-stats" height="175" alt="Top Langs" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leosouza-devv&theme=tokyonight&hide_border=true&background=0D1117&random=1" height="175" alt="GitHub Streak" />      
-      </td>
-    </tr>
-  </table>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/Leosouza-devv/Leosouza-devv/output/snake.svg" alt="Snake animation"/>
-  </div>
-</div>
-<br>
 
-<div align="center">
+---
 
 # Entre em contato comigo
 
-</div>
+<div align="center">
 
-<p>Se você quiser entrar em contato comigo, fique à vontade para me enviar uma mensagem através das minhas redes sociais ou e-mail. Estou sempre aberto a novas oportunidades e colaborações!</p>
-<p>Você pode me encontrar nas seguintes plataformas:</p>
-<div>
-  <a href="https://mail.google.com/mail/?view=cm&to=leosouza.devv@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonardo-s-souza-a054703aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/leosouza.devv/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+<a href="https://mail.google.com/mail/?view=cm&to=leosouza.devv@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/leonardo-s-souza-a054703aa/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/leosouza.devv/" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
 </div>
 
 ---
@@ -228,3 +225,4 @@ JavaScript • CSS • Node.js
 ### “Consistência supera intensidade.”
 
 </div>
+```
