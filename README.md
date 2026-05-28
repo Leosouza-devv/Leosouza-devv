@@ -37,17 +37,28 @@
 - 💻 Formação em Desenvolvimento Web — Instituto Federal do Rio de Janeiro (IFRJ)
 
 
+<br>
+<br>
 
 ---
 <div align="center">
 
+<br>
+<br>
+
   # Áreas de Estudo
+
+<img src="assets/computador.png" align="right" src="assets/brain.png" alt="Ilustração em halftone de um cérebro" width="180" style="margin-right: 20px; margin-bottom: 8px;">
+
+<br>
+<br>
+
 
 </div>
 
 Atualmente direciono meus estudos para:
 
-<img src="assets/computador.png" align="right" src="assets/brain.png" alt="Ilustração em halftone de um cérebro" width="180" style="margin-right: 20px; margin-bottom: 8px;">
+
 
 - backend com Node.js;
 - automação com Python;
@@ -58,21 +69,30 @@ Atualmente direciono meus estudos para:
 
 
 <div align="center">
+<br>
+<br>
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,python,mysql,git,github,vscode,vercel,figma">
 
 </div>
 
+<br>
+<br>
+
 ---
 
-<br>
+
 <div align="center">
+<br>
+<br>
 
 # Projetos em Destaque
 
-</div>
-
 <img src="assets/lupa.png" align="right" src="assets/brain.png" alt="Ilustração em halftone de um cérebro" width="180" style="margin-right: 20px; margin-bottom: 8px;">
+<br>
+<br>
+
+</div>
 
 ## 🌐 Landing Page Moderna
 
