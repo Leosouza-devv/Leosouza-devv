@@ -9,8 +9,8 @@
 
 # Sobre mim
 
-<table>
-<tr style="border:0;">
+<table border='0'>
+<tr>
 
 <td width="75%">
 
