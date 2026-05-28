@@ -157,7 +157,7 @@ Também utilizo <strong>Git</strong>, <strong>GitHub</strong>, <strong>MySQL</st
 
 <h2 style="border-bottom: none;">GitHub Analytics</h2>
 
-<p align="center">
+<p width="100%" align="center">
 
   <img
     align="center" 
