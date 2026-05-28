@@ -9,10 +9,10 @@
 
 # Sobre mim
 
-<table border='0'>
+<table >
 <tr>
 
-<td width="75%">
+<td width="70%">
 
 - 🖥️ Desenvolvedor de software
 - 📚 Estudante de Engenharia de Software
@@ -22,7 +22,7 @@
 
 </td>
 
-<td width="25%" align="center">
+<td width="30%" align="center">
 
 <img src="assets/computador.png" width="200"/>
 
@@ -63,7 +63,7 @@
 <table>
 <tr>
 
-<td width="75%">
+<td width="50%">
 
 Atualmente direciono meus estudos para:
 
@@ -76,7 +76,7 @@ Atualmente direciono meus estudos para:
 
 </td>
 
-<td  width="25%" align="center">
+<td  width="50%" align="center">
 
 <img src="assets/lupa.png" width="200"/>
 
