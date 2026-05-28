@@ -71,7 +71,7 @@ Atualmente busco aprofundar conhecimentos em arquitetura de aplicações, estrut
   style="margin-right: 20px; margin-bottom: 10px;" 
 />
 
-<ul>
+<ul align="right">
   <li>Construção de aplicações backend mais organizadas e escaláveis.</li>
   <li>Automação de tarefas e manipulação de dados com Python.</li>
   <li>Modelagem e integração com bancos de dados relacionais.</li>
