@@ -68,10 +68,10 @@ Atualmente busco aprofundar conhecimentos em arquitetura de aplicações, estrut
   align="left" 
   src="assets/lupa.png" 
   width="200px" 
-  style="margin-right: 20px; margin-bottom: 10px;" 
+  style="margin: 0 40px 0 20px;" 
 />
 
-<ul align="right">
+<ul style="margin: 0 0px 0 40px;">
   <li>Construção de aplicações backend mais organizadas e escaláveis.</li>
   <li>Automação de tarefas e manipulação de dados com Python.</li>
   <li>Modelagem e integração com bancos de dados relacionais.</li>
