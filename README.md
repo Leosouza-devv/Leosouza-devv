@@ -2,7 +2,7 @@
   <img src="assets/Capa de fundo.png" width="100%" height="100%" />
 </div>
 
-<div aling="center">
+<div align="center">
 
   # 🚀 Sobre mim
 
@@ -15,7 +15,7 @@
 - 🚀 Construindo aplicações web modernas
 
 ---
-<div aling="center">
+<div align="center">
 
   # 🎓 Formação Acadêmica
 
@@ -25,7 +25,7 @@
 - 💻 Formação em Desenvolvimento Web — Instituto Federal do Rio de Janeiro (IFRJ)
 
 ---
-<div aling="center">
+<div align="center">
 
   # 📚 Áreas de Estudo
 
@@ -36,10 +36,11 @@ Atualmente direciono meus estudos para:
 - backend com Node.js;
 - automação com Python;
 - análise e manipulação de dados;
-<img href="assets/computador.png">
 - bancos de dados relacionais;
 - arquitetura de aplicações;
 - boas práticas de desenvolvimento de software.
+<img src="assets/computador.png">
+
 
 <div align="center">
 
@@ -51,6 +52,11 @@ Atualmente direciono meus estudos para:
 
 <br>
 
+<div align="center">
+
+  # 📊 GitHub Analytics
+
+</div>
 <div align="center">
   <table border="0" style="background-color: transparent;">
     <tr>
@@ -71,7 +77,7 @@ Atualmente direciono meus estudos para:
 </div>
 <br>
 
-<div aling="center">
+<div align="center">
 
 # 📫 Entre em contato comigo
 
